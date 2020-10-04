@@ -1,2 +1,2 @@
 # SpinWheel
-<img src="images/output.png">
+<img src="images/output.PNG">
